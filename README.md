@@ -1,7 +1,7 @@
 # Muhammad Tahir Hussain
 
 **Backend Developer**  
-📧 Email: [muhammadtahirhussain.pk@gmail.com](mailto:muhammadtahirhussain.pk@gmail.com)  
+📧 Email: [tahirnekukara@gmail.com](mailto:tahirnekukara@gmail.com)  
 📞 Phone: +92-301-648-0483  
 
 ---
