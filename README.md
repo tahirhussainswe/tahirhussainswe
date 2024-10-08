@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a backend developer specializing in Python, Dj
 Feel free to explore my repositories, and don’t hesitate to reach out! 😊
 
 ## Get In Touch
-- 📧 [email@example.com](mailto:tahirnekukara@gmail.com)
+- 📧 [email@tahirnekukara@gmail.com](mailto:tahirnekukara@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadtahirhussain)
 - 🌐 [My Portfolio](https://yourwebsite.com)
 
