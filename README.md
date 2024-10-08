@@ -1,28 +1,73 @@
-# Hi there, I'm Tahir! 👋
+# Muhammad Tahir Hussain
 
-Welcome to my GitHub profile! I'm a backend developer specializing in Python, Django, and API integrations.
+**Backend Developer**  
+📧 Email: [muhammadtahirhussain.pk@gmail.com](mailto:muhammadtahirhussain.pk@gmail.com)  
+📞 Phone: +92-301-648-0483  
+
+---
 
 ## About Me
-- 🧑‍💻 I'm currently working on a geofencing feature for an attendance app.
-- 🚀 I’m passionate about building efficient, scalable backend systems.
-- 🌱 I’m learning FastAPI to complement my existing Django skills.
-- 🛠 I love automating workflows and solving complex database issues.
 
-## Technologies I Work With
-- Python | Django | Django REST Framework
-- PostgreSQL | MySQL
-- Firebase | AWS | Celery | Redis
+I am a passionate backend developer with expertise in Python and Django. I have extensive experience in building REST APIs using Django Rest Framework and developing backend web services. With a strong foundation in code structure, logic building, and efficient coding practices, I consistently stay up-to-date with new technologies to adopt better approaches in problem-solving. I thrive in fast-paced environments, working both independently and collaboratively to deliver high-quality solutions.
 
-## Projects I'm Proud Of
-- [Geofencing Attendance App](https://github.com/yourusername/attendance-app)
-- [Restaurant Search Engine using Google Maps API](https://github.com/yourusername/restaurant-search)
-- [Firebase Push Notifications Integration](https://github.com/yourusername/firebase-notifications)
+---
 
-Feel free to explore my repositories, and don’t hesitate to reach out! 😊
+## Career Highlights
 
-## Get In Touch
-- 📧 [email@tahirnekukara@gmail.com](mailto:tahirnekukara@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadtahirhussain)
-- 🌐 [My Portfolio](https://yourwebsite.com)
+### **ENIGMATIX PVT LTD.**  
+**Backend Developer** (Mar 2022 - Present)  
+At Enigmatix, I have gained hands-on experience in backend web services. I contributed to more than 2 projects under the organization, including AES Environmental, Vendor Management System, Shoping App and worked on more then 20 projects for bugfixing.
 
 
+---
+
+### **ASPIRE GROUP OF COLLEGES**  
+**Lecturer in Computer Science** (Aug 2021 - Feb 2022)  
+I taught programming, algorithms, and database management at Aspire College, Jaranwala Campus, shaping the curriculum and preparing students for success in computer science.
+
+### **THE EDUCATORS**  
+**Computer Science Teacher** (Jan 2020 - Aug 2021)  
+I taught computer science to 9th and 10th-grade students at The Educators Lasani Campus in Faisalabad. My role also included administrative responsibilities, managing admissions, and handling Board registration processes.
+
+---
+
+## Technical Skills
+
+- **Languages & Frameworks**: Python, Django, Django Rest Framework, C++
+- **Databases**: SQL, PostgreSQL, MySQL
+- **Frontend**: HTML, CSS, Bootstrap
+- **Tools**: Celery, Celery Beat, Stripe, Redis, Postman, Git
+- **Other Skills**: Data Manipulation, Research & Development
+
+---
+
+## Education
+
+- **Master in Computer Science (MCS)**  
+  The Islamia University Bahawalpur
+
+- **Bachelor in Computer Science (BSc)**  
+  The Islamia University Bahawalpur
+
+---
+
+## Certifications
+
+- **Certified Python Developer** from HackerRank
+- **Certified Creative Designer** from e-Rozgar
+
+---
+
+## Professional Skills
+
+- Expertise in micro-services architecture
+- Web development using Django
+- Strong logic building and self-learning skills
+- Analytical and quantitative skills
+- Ability to collaborate with team members or work independently
+- Strong sense of urgency while maintaining accuracy
+- Able to work in fast-paced environments
+
+---
+
+Feel free to explore my projects and reach out if you'd like to collaborate or learn more!
