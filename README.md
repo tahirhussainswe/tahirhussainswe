@@ -16,7 +16,7 @@ I am a passionate backend developer with expertise in Python and Django. I have 
 
 ### **ENIGMATIX PVT LTD.**  
 **Backend Developer** (Mar 2022 - Present)  
-At Enigmatix, I have gained strong backend development skills, focusing on Python, Django, and Django REST Framework (DRF). I worked on two key projects—a Vendor Management System and a Shopping App—where I helped design and develop backend systems. I have also worked on more than 10 projects, improving code quality through bug fixes, performance enhancements, and ensuring smooth functionality.
+At Enigmatix, I have gained strong backend development skills, focusing on Python, Django, and Django REST Framework (DRF). I worked on key projects like a Vendor Management System and Social Shopping Apps where I helped design and develop backend systems. I have also worked on more than 10 projects, improving code quality through bug fixes, performance enhancements, and ensuring smooth functionality.
 
 My expertise includes API design, database management, and system integration. I have resolved various technical challenges, delivering reliable and scalable solutions to meet both project and business needs.
 
