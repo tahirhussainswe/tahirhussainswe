@@ -16,7 +16,7 @@ I am a passionate backend developer with expertise in Python and Django. I have 
 
 ### **ENIGMATIX PVT LTD.**  
 **Backend Developer** (Mar 2022 - Present)  
-At Enigmatix, I have gained hands-on experience in backend web services. I contributed to more than 2 projects under the organization, including AES Environmental, Vendor Management System, Shoping App and worked on more then 20 projects for bugfixing.
+At Enigmatix, I have gained hands-on experience in backend web services. I contributed to more than 2 projects under the organization, including Vendor Management System, Shoping App and worked on more then 20 projects for bugfixing.
 
 
 ---
