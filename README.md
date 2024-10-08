@@ -1,7 +1,5 @@
 # Muhammad Tahir Hussain
 
-![Profile Image](https://github.com/tahirnekukara/tahirnekukara/blob/main/Tahir.png)
-
 **Backend Developer**   
 📧 Email: [tahirnekukara@gmail.com](mailto:tahirnekukara@gmail.com)  
 📞 Phone: +92-301-648-0483  
