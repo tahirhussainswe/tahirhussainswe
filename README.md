@@ -35,10 +35,10 @@ I taught computer science to 9th and 10th-grade students at The Educators Lasani
 
 ## Technical Skills
 
-- **Languages & Frameworks**: Python, Django, Django Rest Framework, C++
+- **Languages & Frameworks**: Python, Django, Django Rest Framework, FastAPI C++
 - **Databases**: SQL, PostgreSQL, MySQL
 - **Frontend**: HTML, CSS, Bootstrap
-- **Tools**: Celery, Celery Beat, Stripe, Redis, Postman, Git
+- **Tools**: Celery, Celery Beat, Stripe,Paystack, Redis, Postman, Git
 - **Other Skills**: Data Manipulation, Research & Development
 
 ---
