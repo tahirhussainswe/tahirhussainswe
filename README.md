@@ -36,20 +36,20 @@ At Enigmatix, I primarily work on building scalable backend systems using Python
 ### ASPIRE GROUP OF COLLEGES
 **Lecturer in Computer Science** *(Aug 2021 – Feb 2022)*  
 
-I taught programming, algorithms, and database management to undergraduate students, focusing on practical labs and engaging students with real-world applications.
+I taught programming, algorithms, and database management to undergraduate students, with a focus on practical labs and engaging them with real-world applications.
 
 ---
 
 ### THE EDUCATORS
 **Computer Science Teacher** *(Jan 2020 – Aug 2021)*  
 
-I taught computer science to high school students and managed administrative tasks such as admissions and Board registration.
+I taught computer science to high school students and managed administrative tasks, including admissions and Board registration.
 
 ---
 
 ## Technical Skills
 
-- **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, Flask, NestJS, TypeScript, C++
+- **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, Flask-RESTX, Flask, NestJS, TypeScript, C++
 - **Databases**: PostgreSQL, MySQL, SQL
 - **Tools & Technologies**: Celery, Celery Beat, Redis, Stripe, Paystack, Docker, Postman, Git/GitHub/GitLab
 - **Web Development**: HTML, CSS, Bootstrap (basic)
