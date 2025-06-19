@@ -50,7 +50,7 @@ I taught computer science to high school students and managed administrative tas
 ## Technical Skills
 
 - **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, Flask, Flask-RESTX, C++
-- **Databases**: PostgreSQL, MySQL, SQL
+- **Databases**: PostgreSQL, MongoDB, MySQL, SQL
 - **Tools & Technologies**: Celery, Celery Beat, Redis, Stripe, Paystack, Docker, Postman, Git/GitHub/GitLab
 - **Web Development**: HTML, CSS, Bootstrap (basic)
 - **Other Skills**: REST API Design, Microservices Architecture, Asynchronous Programming, Background Task Processing, Agile Development
