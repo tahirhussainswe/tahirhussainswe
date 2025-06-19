@@ -22,7 +22,7 @@ At Enigmatix, I primarily work on building scalable backend systems using Python
 **Key Responsibilities:**
 - Designed and developed RESTful APIs with DRF, implementing authentication, pagination, filtering, and custom permissions.
 - Built backend systems for platforms involving user interactions, content management, product handling, and transactions.
-- Explored FastAPI and Flask to build lightweight services and apply asynchronous programming patterns.
+- Developed APIs using Flask, Flask-RESTX, and FastAPI, structuring scalable microservices, handling request parsing, error responses, API documentation, and applying asynchronous programming patterns.
 - Worked with NestJS to apply modular service-based architectures in Node.js.
 - Conducted API testing with Postman to ensure proper functionality and error handling.
 - Collaborated with frontend and mobile developers to integrate APIs and ensure real-time data flow.
