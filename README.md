@@ -1,14 +1,14 @@
 # Muhammad Tahir Hussain
 
 **Backend Developer**  
-Email: [muhammdtahirhussain@gmail.com](mailto:muhammadtahirhussain.codes@gmail.com)  
+Email: [muhammadtahirhussain.codes@gmail.com](mailto:muhammadtahirhussain.codes@gmail.com)  
 Phone: +92-301-648-0483  
 
 ---
 
 ## About Me
 
-I am a backend developer with experience in Python and Django. I specialize in developing RESTful APIs, building scalable backend systems, and working with modern backend frameworks such as FastAPI, Flask, and NestJS. I continuously strive to improve my skills and stay updated with the latest technologies.
+I am a backend developer with experience in Python and Django. I specialize in developing RESTful APIs, building scalable backend systems, and working with modern backend frameworks such as Django, FastAPI, Flask, and NestJS. I continually strive to enhance my skills and stay current with the latest technologies.
 
 ---
 
@@ -49,7 +49,7 @@ I taught computer science to high school students and managed administrative tas
 
 ## Technical Skills
 
-- **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, Flask, Flask-RESTX, C++
+- **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, Flask, Flask-RESTX
 - **Databases**: PostgreSQL, MongoDB, MySQL, SQL
 - **Tools & Technologies**: Celery, Celery Beat, Redis, Stripe, Paystack, Docker, Postman, Git/GitHub/GitLab
 - **Web Development**: HTML, CSS, Bootstrap (basic)
@@ -83,4 +83,4 @@ I taught computer science to high school students and managed administrative tas
 
 ---
 
-Feel free to explore my projects and reach out if you'd like to collaborate or learn more!
+Feel free to explore my projects and reach out if you'd like to learn more!
