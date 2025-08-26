@@ -1,7 +1,7 @@
 # Muhammad Tahir Hussain
 
 **Backend Developer**  
-Email: [muhammdtahirhussain@gmail.com](mailto:muhammdtahirhussain@gmail.com)  
+Email: [muhammdtahirhussain@gmail.com](mailto:muhammadtahirhussain.codes@gmail.com)  
 Phone: +92-301-648-0483  
 
 ---
