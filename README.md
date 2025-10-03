@@ -8,7 +8,7 @@ Phone: +92-301-648-0483
 
 ## About Me
 
-I am a backend developer with experience in Python and Django. I specialize in developing RESTful APIs, building scalable backend systems, and working with modern backend frameworks such as Django, DRF, FastAPI, and Flask. I continually strive to enhance my skills and stay current with the latest technologies.
+I am a backend developer with strong expertise in Python and Django, specializing in designing and developing RESTful APIs and building scalable backend systems. I have hands-on experience with modern frameworks such as Django REST Framework (DRF), FastAPI, and Flask, and I continuously strive to enhance my skills while staying up to date with the latest technologies and best practices in backend development.
 
 ---
 
@@ -17,7 +17,7 @@ I am a backend developer with experience in Python and Django. I specialize in d
 ### ENIGMATIX PVT LTD.
 **Backend Developer** *(Mar 2022 – Present)*  
 
-At Enigmatix, I primarily work on building scalable backend systems using Python, Django, and Django REST Framework (DRF). I have also worked with FastAPI, Flask, and NestJS for building microservices and exploring modern backend architectures.
+Currently at Enigmatix, I focus on designing and developing scalable backend systems using Python, Django, and Django REST Framework (DRF). I also work with FastAPI, and Flask to build microservices and explore modern, service-oriented backend architectures, ensuring high performance, maintainability, and scalability.
 
 **Key Responsibilities:**
 - Designed and developed RESTful APIs with DRF, implementing authentication, pagination, filtering, and custom permissions.
