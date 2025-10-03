@@ -8,7 +8,7 @@ Phone: +92-301-648-0483
 
 ## About Me
 
-I am a backend developer with experience in Python and Django. I specialize in developing RESTful APIs, building scalable backend systems, and working with modern backend frameworks such as Django, FastAPI, Flask, and NestJS. I continually strive to enhance my skills and stay current with the latest technologies.
+I am a backend developer with experience in Python and Django. I specialize in developing RESTful APIs, building scalable backend systems, and working with modern backend frameworks such as Django, DRF, FastAPI, and Flask. I continually strive to enhance my skills and stay current with the latest technologies.
 
 ---
 
@@ -26,9 +26,10 @@ At Enigmatix, I primarily work on building scalable backend systems using Python
 - Worked with NestJS to apply modular service-based architectures in Node.js.
 - Conducted API testing with Postman to ensure proper functionality and error handling.
 - Collaborated with frontend and mobile developers to integrate APIs and ensure real-time data flow.
-- Managed PostgreSQL and MySQL databases, including schema design, query optimization, and migrations.
+- Managed relational and non-relational databases (PostgreSQL, MySQL, MongoDB), including schema design, query optimization, indexing, and migrations.
+- Experienced in ticket and project management systems including Jira, ClickUp, Trello, and GitLab, for sprint tracking, issue management, and team collaboration.
 - Followed Agile practices, participating in daily stand-ups, sprint planning, and collaborative coding.
-- Used Git for version control, managing branches, pull requests, and team collaboration.
+- Used Git for version control and GitLab for repository management, CI/CD pipelines, and team collaboration.
 - Worked with Docker for containerization, ensuring consistent development and deployment environments.
 
 ---
